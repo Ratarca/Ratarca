@@ -145,5 +145,5 @@
 
 ## "Everything negative - pressure, challenges - is all an opportunity for me to rise."  <br> Kobe Bryant
   
-<a href="#"><img src="https://badges.pufler.dev/visits/Ratarca/Ratarca"></a>
+<a href="#"><img src="https://badges.pufler.dev/visits/Ratarca/Ratarca"></a> Visitors
 
