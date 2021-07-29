@@ -3,13 +3,14 @@
 </h1>
 
 <p align='center'>
-  A Data software engineer
+  A Data software engineer.  <br> 
 </p>
+
 
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="https://br.linkedin.com/in/rafael-cavalcante-4b58b2100/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://">
@@ -25,14 +26,8 @@
 
 
 
-## Summary
-- Skills
-- Work
-- Education
-- Portifolio
-- Fun facts
 
-
+# Summary
 
 <details>
   <summary> :toolbox: Skills </summary>
@@ -57,7 +52,7 @@
    
   - Building architect and services on Datalake (AWS / Databricks).  
   - Understand problems together business teams and create tech solutions.
-  - Operations work : Coding data applications, Create/Maintenance Datapipelines, PowerBI Dashboard, Review Codes, Organize repository, Monitoring Services. 
+  - Operations work : Coding data applications, Create/Maintenance Data pipelines, PowerBI Dashboard, Review Codes, Organize repository, Monitoring Services. 
   - Refactor legacy code to standard architecture. (Clean Arch / DDD / Hexagonal with TDD). 
   - Organize demands with team data engineer.  
   - Evangelize teams to data culture (Governance / Data-Driven decisions / Efficient process).  
@@ -147,3 +142,8 @@
  </details>
   
 </details>
+
+## "Everything negative - pressure, challenges - is all an opportunity for me to rise."  <br> Kobe Bryant
+  
+<a href="#"><img src="https://badges.pufler.dev/visits/Ratarca/Ratarca"></a>
+
