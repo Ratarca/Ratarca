@@ -36,8 +36,8 @@
    |-------------    | ------------- | -------------    | -------------  | ------------- |
    |Data solutions   | Python        | Oracle (PL/SQL)  | AWS            | Docker        |
    |Customer experience| TS & Node   | Redis            | Databricks     | Git-actions   |
-   |Fixed Income     | F#            |        -         |        -       | Azure pipeline|
-   |Derivatives      | C#            |        -         |        -       |        -      |
+   |Fixed Income     | C#            |        -         |        -       | Azure pipeline|
+   |Derivatives      |      -        |        -         |        -       |        -      |
 
  </details>
   
@@ -96,7 +96,7 @@
 
    |Case                         | Problem                                  | Stack            |STATUS|
    |-------------                | -------------                            | -------------    |---   |
-   |Broker dealer simulation     | Replication broker dealer business       | Many             |:x:   |
+   |Broker dealer simulation     | Replication broker dealer business*     | Many             |:heavy_check_mark:   |
    |Data lake IaC                | Building datalake aws                    | TS               |:x:|
    |Bifrost                      | Data transfer between DB's               |Python            |:x:|
    |CRM Investiments             | Simulation HUB investment                |TS/ Oracle / C#   |:x:|
@@ -120,6 +120,8 @@
    |Fundamentals OOP             | Knowlegment about OOP                    | C#               |:x:|
    |Fundamentals SQL             | Knowlegment about SQL                    | Oracle           |:x:|
 
+  * = Private
+  
  </details>
   
 </details>
