@@ -31,13 +31,14 @@
 
 <details>
   <summary> :toolbox: Skills </summary>
-   
-   |Knowlegment Business | Programming   | Database         | Cloud          | CI-CD |
-   |-------------    | ------------- | -------------    | -------------  | ------------- |
-   |Data solutions   | Python        | Oracle (PL/SQL)  | AWS            | Docker        |
-   |Customer experience| TS & Node   | Redis            | Databricks     | Git-actions   |
-   |Fixed Income     | C#            |        -         |        -       | Terra Form    |
-   |Derivatives      |      -        |        -         |        -       |        -      |
+
+  
+   |Knowlegment Business | Programming   | Database         | Cloud          | CI-CD  | Others |
+   |-------------    | ------------- | -------------    | -------------  | ------------- |------------- |
+   |Data solutions   | Python        | Oracle (PL/SQL)  | AWS            | Docker        |PowerBI        |
+   |Customer experience| TS & Node   | Redis            | Databricks     | Git-actions   |API's        |
+   |Fixed Income     | C#            |        -         |        -       | Terra Form    |Shell        |
+   |Derivatives      |      -        |        -         |        -       |        -      |-        |
 
  </details>
   
@@ -111,7 +112,7 @@
    |Client journey               | Data science case                        | Python, PowerBI  |:x:|
    |Client aquisition            | Data science case                        | Python, PowerBI  |:x:|
    |Client churn                 | Data science case                        | Python, PowerBI  |:x:|
-   |Client analysis              | Data science case                        | Python, PowerBI  |:x:|
+   |Stackholder analysis         | Data science case                        | Python, PowerBI  |:x:|
    |Fake data generators         | Simulation some data                     | Python           |:x:|
    |Data pipeline SQL            | Create package into Oracle               | Oracle / PowerBi |:x:|
    |Data pipeline Airflow        | Create ETL into airflow                  | Python           |:x:|
