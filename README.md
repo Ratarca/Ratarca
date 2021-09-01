@@ -36,7 +36,7 @@
    |-------------    | ------------- | -------------    | -------------  | ------------- |
    |Data solutions   | Python        | Oracle (PL/SQL)  | AWS            | Docker        |
    |Customer experience| TS & Node   | Redis            | Databricks     | Git-actions   |
-   |Fixed Income     | C#            |        -         |        -       | Azure pipeline|
+   |Fixed Income     | C#            |        -         |        -       | Terra Form    |
    |Derivatives      |      -        |        -         |        -       |        -      |
 
  </details>
@@ -109,9 +109,10 @@
    |CDK Samples                  | Knowlegment about clean code             | TS               |:x:|
    |Client attence               | Data science case                        | Python, PowerBI  |:x:|
    |Client journey               | Data science case                        | Python, PowerBI  |:x:|
+   |Client aquisition            | Data science case                        | Python, PowerBI  |:x:|
    |Client churn                 | Data science case                        | Python, PowerBI  |:x:|
-   |Client churn                 | Data science case                        | Python, PowerBI  |:x:|
-   |Fake data generators         | Simulation some data                     | TS               |:x:|
+   |Client analysis              | Data science case                        | Python, PowerBI  |:x:|
+   |Fake data generators         | Simulation some data                     | Python           |:x:|
    |Data pipeline SQL            | Create package into Oracle               | Oracle / PowerBi |:x:|
    |Data pipeline Airflow        | Create ETL into airflow                  | Python           |:x:|
    |Clean code knowledgment      | Building datalake aws                    | Python, TS       |:x:|
