@@ -70,7 +70,7 @@
   <summary> :school:  Education </summary>
    
  #### *School* 
-- [x] Graduation - Economics (USP)
+- [x] Graduation - Economics into University São Paulo(USP)
  
  #### *Certifications*
  - [x] Investment Banking (Saint Paul)
