@@ -10,7 +10,7 @@
 
 <p align='center'>
   
-  <a href="https://br.linkedin.com/in/rafael-cavalcante-4b58b2100/">
+  <a href="https://www.linkedin.com/in/rafael-targino-4b58b2100/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://">
