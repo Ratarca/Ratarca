@@ -27,18 +27,18 @@
 
 
 
-# Summary
+# Professional Resume
 
 <details>
   <summary> :toolbox: Skills </summary>
 
   
-   |Knowlegment Business | Programming   | Database         | Cloud          | CI-CD  | Others |
-   |-------------    | ------------- | -------------    | -------------  | ------------- |------------- |
-   |Data solutions   | Python        | Oracle (PL/SQL)  | AWS            | Docker        |PowerBI        |
-   |Customer experience| TS & Node   | Redis            | Databricks     | Git-actions   |API's        |
-   |Fixed Income     | C#            |        -         |        -       | Terra Form    |Shell        |
-   |Derivatives      |      -        |        -         |        -       |        -      |-        |
+   |Knowlegment Business | Programming | Database     | Cloud      | DevOps  | Others |
+   |-------------      | ------------- | -------------    | -------------  | ------------- |------------- |
+   |Data solutions     | Python        | Oracle (PL/SQL)  | AWS            | CI-CD (DevOps) |Viz (PowerBI)|
+   |Customer experience| TS & Node     | Redis            | Databricks     | Terraform      |API's        |
+   |Fixed Income       | C#            |        -         | Azure          | Shell          |Observability|
+   |Derivatives        |      -        |        -         |        -       | Docker         |-            |
 
  </details>
   
@@ -73,7 +73,8 @@
 - [x] Graduation - Economics into University São Paulo(USP)
  
  #### *Certifications*
- - [x] Investment Banking (Saint Paul)
+ - [ ] Azure : Fundamentals (AZ900)
+
  
  #### *Extra actives*
  Code Camp - Youtube Channel.  
