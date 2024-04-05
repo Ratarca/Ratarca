@@ -48,7 +48,7 @@
 <details>
   <summary> :heavy_exclamation_mark: Work </summary>
    
- ### Data Software Engineer - ModalMais  
+ ### Data Software Engineer - Serasa Experian 
    
    
   - Building architect and services on Datalake (AWS / Databricks).  
@@ -73,7 +73,7 @@
 - [x] Graduation - Economics into University São Paulo(USP)
  
  #### *Certifications*
- - [ ] Azure : Fundamentals (AZ900)
+ - [x] Azure : Fundamentals (AZ900)
 
  
  #### *Extra actives*
